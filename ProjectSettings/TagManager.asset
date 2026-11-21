@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - Rope
+  - FallZone
   layers:
   - Default
   - TransparentFX

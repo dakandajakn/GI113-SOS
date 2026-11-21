@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "unity": {
+      "command": "node",
+      "args": [
+        "D:/GI113-SOS/Tools/unity-mcp-server/src/index.js"
+      ]
+    }
+  }
+}
+
